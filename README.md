@@ -1,11 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fcb96&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+I'm+Axel+Silva!;+Aways+learning...+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006afe&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+I'm+Axel+Silva!;+Aways+learning...+:%29)](https://git.io/typing-svg)
 
  <br>
 
  <div align="center">
   <a href="https://github.com/axelssilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=axelssilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelssilva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=axelssilva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>   
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelssilva&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
  <br>
